@@ -1,6 +1,6 @@
-package com.ar.oops.inheritance.singleinheritance;
+package com.ar.oops.inheritance.singleinheritance.Ex1;
 
-public class Town  extends  Home {
+public class Town  extends Home {
     private String place;
 
     public Town(String area, int houseNum, String place) {

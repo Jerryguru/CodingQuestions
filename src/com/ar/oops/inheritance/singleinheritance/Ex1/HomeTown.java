@@ -1,4 +1,4 @@
-package com.ar.oops.inheritance.singleinheritance;
+package com.ar.oops.inheritance.singleinheritance.Ex1;
 
 public class HomeTown {
    public static void main(String[] args) {
